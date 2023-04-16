@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working on Aktiftech<br>I'm Currently on learning Angular Mediatr Pattern
+I'm Currently Working on Aktiftech<br>I'm Currently on learning Angular and Mediatr Pattern
 
 
 ## 🌐 Socials:
